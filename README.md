@@ -90,4 +90,4 @@ module.exports = {
 ### References
 * [Webpack](https://webpack.js.org/)
 * [Webpack Module Federation Plugin](https://webpack.js.org/plugins/module-federation-plugin/)
-* [Webpack Html Plugin](https://webpack.js.org/plugins/html-webpack-plugin/)
+* [Webpack Html Plugin](https://webpack.js.org/plugins/html-webpack-plugin/)# ecomm
